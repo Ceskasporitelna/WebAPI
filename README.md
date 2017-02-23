@@ -23,9 +23,9 @@ WebApi offers the following APIs:
 
 ## Contributing & posting issues
 
-### Security Issues
-
 Found a bug in our API, want to tell us our documentation is not good enough, or have an idea for awesome API we should expose? Here are some hints on how to properly create an issue so that we can fix it as soon as possible.
+
+### Security Issues
 
 ***Any security issues should be submitted directly to
 <security@csas.cz>***
