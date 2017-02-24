@@ -46,13 +46,13 @@ just email us at <developers@csas.cz>.
 
 Found a bug in our API? Need help with some technical stuff? Here are some notes on how to report the bug or the problem you are facing so we can fix it/ help you as fast as possible:
 
-- Explain, as detailed as possible, how to reproduce the issue.
 - Include what you expected to happen, as well as what actually happened.
+- Explain, as detailed as possible, how to reproduce the issue.
 - If it helps, feel free to [attach a
   screenshot](https://github.com/blog/1347-issue-attachments) or video
   illustrating the issue.
-- If you're having trouble with a specific build, please include a link to the
-  build or job in question.
+- If you're having trouble with a specific api or endpoint, please include a link to the
+  specific section about the endpoint in the documentation.
 - Include all this information in a new issue on our [Issue Tracker](https://github.com/Ceskasporitelna/WebAPI/issues)
 - For security reasons, do not share your WebApi key or any other configuration we gave you within the issue.
 
