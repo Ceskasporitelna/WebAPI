@@ -28,7 +28,7 @@ Found a bug in our API, want to tell us our documentation is not good enough, or
 ### Security Issues
 
 ***Any security issues should be submitted directly to
-<developers@csas.cz>***
+<csirt@csas.cz>***
 
 In order to determine whether you are dealing with a security issue, ask
 yourself these two questions:
@@ -40,7 +40,7 @@ yourself these two questions:
 If the answer to either of those two questions are "yes", then you're probably
 dealing with a security issue. Note that even if you answer "no" to both
 questions, you may still be dealing with a security issue, so if in doubt,
-just email us at <developers@csas.cz>.
+just email us at <csirt@csas.cz>.
 
 ## Bugs & Other Issues
 
