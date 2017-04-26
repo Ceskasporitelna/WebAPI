@@ -1,4 +1,4 @@
-# WebAPI
+# WebAPI public issue tracker
 This repository contains the [public issue tracker](https://github.com/Ceskasporitelna/WebAPI/issues) for the WebAPI project  - Banking APIs from Česká spořitelna a.s.
 
 ## Getting started
