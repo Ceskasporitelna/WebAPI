@@ -7,7 +7,7 @@ Before you use our APIs or post any issues here, make sure you completed the fol
 
 1. You have registered as a developer on our [Developer Portal](https://developers.csas.cz).
 1. You have completed the registration and obtained the API key for either Sandbox or System test environment.
-1. You familiarized yourself with the [API integration guide](https://github.com/Ceskasporitelna/WebAPI/wiki/The-integration-of-API-in-the-CS).
+1. You familiarized yourself with the [API integration guide](https://github.com/Ceskasporitelna/WebAPI/wiki/The-integration-of-the-WebAPI-in-the-CS).
 
 ## APIs
 
