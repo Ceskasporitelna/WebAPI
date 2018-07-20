@@ -5,20 +5,14 @@ This repository contains the [public issue tracker](https://github.com/Ceskaspor
 
 Before you use our APIs or post any issues here, make sure you completed the following steps:
 
-1. You have registered as a developer on our [Developer Portal](https://developers.csas.cz).
-1. You have completed the registration and obtained the API key for either Sandbox or System test environment.
-1. You familiarized yourself with the [API integration guide](https://github.com/Ceskasporitelna/WebAPI/wiki/The-integration-of-the-WebAPI-in-the-CS).
+1. You have registered as a developer on our [Developer Portal](https://developers.erstegroup.com).
+1. You have completed the registration and obtained the API key for either Sandbox or Production environment.
+1. You familiarized yourself with the [API integration guide](https://developers.erstegroup.com/docs/guides/csas-how-to-call-api).
 
 ## APIs
 
-WebApi offers the following APIs:
+[Erste API Hub catalogue](https://developers.erstegroup.com/docs/apis/bank.csas)
 
-* **[Netbanking v3](https://developers.csas.cz/docs/netbanking-v3)** - Easy and safe access to client products, their current account balance and transaction history.
-* **[Corporate](https://developers.csas.cz/docs/corporate-v1)** - Are you a corporate customer who wants to access their accounts? Corporate API is here for you.
-* **[Transparent Accounts](https://developers.csas.cz/docs/transparent-account)** - Immediate access to all transparent accounts at Česká spořitelna.
-* **[Exchange Rates](https://developers.csas.cz/docs/exchange-rates)** - Current exchange rates and their history (up to two years).
-* **[Branches and ATMs](https://developers.csas.cz/docs/places-v1)** - All Česká spořitelna branches and ATMs including detailed information in one simple API.
-* **[Hypocalc](https://developers.csas.cz/docs/hypocalc)** - Basic mortgage calculator. Simplify real estate financing for your clients.
 
 
 ## Contributing & posting issues
@@ -55,5 +49,3 @@ Found a bug in our API? Need help with some technical stuff? Here are some notes
   specific section about the endpoint in the documentation.
 - Include all this information in a new issue on our [Issue Tracker](https://github.com/Ceskasporitelna/WebAPI/issues)
 - For security reasons, do not share your WebApi key or any other configuration we gave you within the issue.
-
-
